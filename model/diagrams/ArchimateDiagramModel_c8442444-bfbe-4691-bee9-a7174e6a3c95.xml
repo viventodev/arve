@@ -709,5 +709,17 @@
           xsi:type="archimate:Outcome"
           href="Outcome_175f6c80-056c-4ba2-8210-5d209d04ed1b.xml#175f6c80-056c-4ba2-8210-5d209d04ed1b"/>
     </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="5b2f2e42-7b38-4256-b5af-16a9bb895756">
+      <bounds
+          x="632"
+          y="172"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:Outcome"
+          href="Outcome_bdef03b9-84ac-4f6a-b3da-d0cb8c786129.xml#bdef03b9-84ac-4f6a-b3da-d0cb8c786129"/>
+    </children>
   </children>
 </archimate:ArchimateDiagramModel>
